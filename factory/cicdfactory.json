@@ -1,0 +1,9 @@
+{
+	"name": "cicdfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e763c0b-1e88-4a19-86d0-615524882eae",
+		"tenantId": "b60d926a-3bfd-4074-b300-7f9bdfba4907"
+	}
+}
